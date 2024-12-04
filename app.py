@@ -3,7 +3,7 @@
 
 # In[ ]:
 
-!pip install python-binance
+pip install python-binance
 import streamlit as st
 import pandas as pd
 import numpy as np
